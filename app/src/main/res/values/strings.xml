@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- 景點語言
+    zh-tw -正體中文
+zh-cn -簡體中文
+en -英文
+ja -日文
+ko -韓文
+es -西班牙文
+id -印尼文
+th -泰文
+vi -越南文
+-->
+    <string-array name="lang_name">
+        <item>zh-tw -正體中文</item>
+        <item>zh-cn -簡體中文</item>
+        <item>en -英文</item>
+        <item>ja -日文</item>
+        <item>ko -韓文</item>
+        <item>es -西班牙文</item>
+        <item>id -印尼文</item>
+        <item>th -泰文</item>
+        <item>vi -越南文</item>
+    </string-array>
+
+    <!-- 多語系文字 -->
+    <string name="title_list">列表</string>
+    <string name="title_view">查看</string>
+    <string name="title_web">網頁</string>
+    <string name="title_view_web">網頁查看</string>
+
+
+</resources>
